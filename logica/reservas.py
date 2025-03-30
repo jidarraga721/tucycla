@@ -5,8 +5,6 @@ class Reserva:
         self.duracion = duracion
         self.hora = hora
 
-
-class GestorReserva:
     def crear_reserva(self):
         pass
 
